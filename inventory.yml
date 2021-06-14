@@ -1,7 +1,9 @@
+# Referencia: https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html#hosts-in-multiple-groups
+# Referencia Plugins de Inventario: https://docs.ansible.com/ansible/latest/collections/index_inventory.html
 all:
         children: 
                 cliente:
-                        hosts: []
+                        
                 servidor:
                         hosts:
                                 ansiblecliente.municarrillo.go.cr:

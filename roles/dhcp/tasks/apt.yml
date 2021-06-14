@@ -13,6 +13,6 @@
         name: "{{ lista_paquetes }}"
         state: present
         update_cache: yes
-  service:
-          name: apache2
-          state: stopped
+#  service:
+#          name: apache2
+#          state: stopped
