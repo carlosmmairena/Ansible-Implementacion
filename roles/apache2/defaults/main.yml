@@ -1,0 +1,5 @@
+---
+#paquete_dhcp_ubuntu: 'isc-dhcp-server'
+lista_paquetes: 
+        - 'neovim'
+        - 'apache2'
