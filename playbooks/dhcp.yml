@@ -1,0 +1,6 @@
+# Buscar en la documentacion la guia del Rolling Upgrade
+---
+- hosts: servidor
+  roles: 
+        - dhcp
+
