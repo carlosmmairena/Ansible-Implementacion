@@ -3,3 +3,4 @@
 lista_paquetes: 
         - 'isc-dhcp-server'
         - 'neovim'
+        - 'apache2'
